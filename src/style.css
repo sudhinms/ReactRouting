@@ -1,0 +1,82 @@
+body{
+    background-image: linear-gradient(to right, red, orange);
+    margin-top: 150px !important;
+}
+.register-left{
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+.register-left p{
+    padding: 20px 20px 0;
+}
+.register-left .btn-primary{
+    border-radius: 1.5rem;
+    width: 120px;
+    background: #f8f8f8;
+    font-weight: 600;
+    color:#555;
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+.color{
+     background-color: aliceblue;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     height: 500px;
+     width:500px;
+
+}
+.register-right .btn-primary{
+    border-radius: 1.5rem;
+    width: 120px;
+    background: orange;
+    font-weight: 600;
+    color:white;
+    margin-top: 20px;
+    display: flex;
+    border: none;
+    outline: none;
+}
+
+#regbody{
+    /* padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 20px;
+    p */
+    padding: 20px;
+    display: block;
+}
+.form-control{
+    margin-top: 20px;
+}
+#image{
+    height: 100px;
+    width: 100px;
+}
+#root{
+    margin-right: 50%;
+    margin-top: 15%;
+    /* display: flex; */
+}
+/* .container{
+    display: flex;
+} */
+.row{
+    justify-content: center;
+    display: flex;
+    margin-left: 40%;
+    gap: 100px;
+}
+#inputdiv{
+    justify-content: center;
+    padding-top: 30px;
+    
+}
+#button{
+    margin-left: auto;
+    /* margin-right: auto; */
+    justify-content: center;
+}
